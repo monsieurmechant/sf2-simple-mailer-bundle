@@ -1,6 +1,7 @@
 Simple Mailer Bundle 
 ============
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/f391a5b9-4383-4fd9-b461-fd75a7e6b21d/big.png)](https://insight.sensiolabs.com/projects/f391a5b9-4383-4fd9-b461-fd75a7e6b21d)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/f391a5b9-4383-4fd9-b461-fd75a7e6b21d/mini.png)](https://insight.sensiolabs.com/projects/f391a5b9-4383-4fd9-b461-fd75a7e6b21d)
+[![Build Status](https://travis-ci.org/monsieurmechant/sf2-simple-mailer-bundle.svg)](https://travis-ci.org/monsieurmechant/sf2-simple-mailer-bundle)
 
 A library agnostic mailer for Symfony 2. 
 
