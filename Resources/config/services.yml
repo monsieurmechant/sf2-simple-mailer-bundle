@@ -1,0 +1,4 @@
+services:
+    mechant_mailer.mailer:
+        class: Mechant\MailerBundle\Service\Gateway\SwiftMailer
+        arguments: ['@mailer']

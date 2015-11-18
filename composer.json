@@ -1,0 +1,28 @@
+
+{
+  "name": "monsieurmechant/sf2-simple-mailer-bundle",
+  "type": "symfony-bundle",
+  "description": "A simple extensible mailer interface and bundle.",
+  "keywords": ["symfony2", "mailer", "swiftmailer", "email", "template"],
+  "homepage": "https://github.com/monsieurmechant/sf2-simple-mailer-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Adam Mechant",
+      "email": "adam@mechant.net",
+      "homepage": "https://twitter.com/monsieurmechant",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "symfony/framework-bundle": "~2.3",
+    "symfony/swiftmailer-bundle": "~2.3"
+  },
+  "autoload": {
+    "psr-0": {
+      "Mechant\\Bundle\\SimpleMailerBundle": ""
+    }
+  },
+  "target-dir": "Mechant/Bundle/SimpleMailerBundle"
+}
